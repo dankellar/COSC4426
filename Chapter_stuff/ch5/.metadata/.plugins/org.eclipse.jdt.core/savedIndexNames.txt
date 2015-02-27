@@ -1,0 +1,4 @@
+INDEX VERSION 1.126 OT2+C:\COSC4426\Chapter_stuff\ch5\.metadata\.plugins\org.eclipse.jdt.core
+1917953848.index
+2492955842.index
+4230744146.index
